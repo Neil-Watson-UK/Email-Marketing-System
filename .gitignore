@@ -1,0 +1,20 @@
+# Local secrets
+config.local.php
+.env
+.env.*
+!.env.example
+
+# Logs
+*.log
+debug_log.txt
+error_log
+
+# Uploaded images and generated files
+/uploads/
+settings.json
+
+# OS / editor
+.DS_Store
+Thumbs.db
+*.swp
+*~

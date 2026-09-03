@@ -1,0 +1,10 @@
+{
+  "defaultLogoUrl": "",
+  "primaryBrandColor": "#00353d",
+  "secondaryBrandColor": "#00a399",
+  "defaultFontFamily": "Arial, sans-serif",
+  "allowedTextColors": "#131313,#ffffff,#00353d,#00a399,#ff5549",
+  "allowedBackgroundColors": "#131313,#ffffff,#00353d,#00a399,#ff5549",
+  "customFontUrl": "",
+  "customFontFamilyName": ""
+}
