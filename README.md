@@ -28,7 +28,7 @@ Generate the hash with `php -r "echo password_hash('your-password', PASSWORD_DEF
 
 - `index.php` — login
 - `emailpos.php` — editor
-- `api/` — calendar, templates, SFMC send, user admin
+- `api/` — calendar, save/search emails, reusable blocks, Azure test send, SFMC send, user admin
 - `includes/init.php` — session and auth bootstrap
 - `emails/` — saved email JSON/HTML
 
